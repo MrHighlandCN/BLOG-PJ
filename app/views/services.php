@@ -20,7 +20,6 @@
 </head>
 
 <body>
-
     <!-- ====================== BEGIN NAV SECTION =================== -->
     <nav>
         <div class="container nav-container">
@@ -36,8 +35,8 @@
                         <img src="../../public/assets/img/avatar1.jpg" alt="">
                     </div>
                     <ul>
-                        <li><a href="../app/views/dashboard.php">Dashboard</a></li>
-                        <li><a href="../app/views/logout.php">Log out</a></li>
+                        <li><a href="./dashboard.php">Dashboard</a></li>
+                        <li><a href="./logout.php">Log out</a></li>
 
                     </ul>
                 </li>
@@ -49,21 +48,13 @@
 
     <!-- ====================== END NAV SECTION =================== -->
 
+    <!-- ====================== BEGIN EMPTY SECTION =================== -->
 
-    <section class="form-section">
-        <div class="container form-section-container">
-            <h2>Edit User</h2>
-            <form action="" enctype="multipart/form-data">
-            <input type="text" placeholder="First Name">
-            <input type="text" placeholder="Last Name">
-            <select>
-                <option value="0">Author</option>
-                <option value="1">Admin</option>
-            </select>
-            <button class="btn" type="submit">Update user</button>
-        </form>
-        </div>
+    <section class="empty-page">
+        <h1>Services page</h1>
     </section>
+    <!-- ====================== END EMPTY SECTION =================== -->
+    
 
     <!-- ====================== BEGIN FOOTER SECTION =================== -->
     <footer>
@@ -126,6 +117,7 @@
     </footer>
 
     <!-- ====================== END FOOTER SECTION =================== -->
+
 
 
 </body>
