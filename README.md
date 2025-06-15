@@ -1,5 +1,8 @@
 # FULL-STACK BLOG PROJECT WITH PHP ONLY
 
+![Ảnh demo](project-overview.png)
+
+
 ## Introduction
 This is a website that allows users to interact with posts and have basic CRUD. In addition, it provides additional user management and category management rights for the admin.
 
