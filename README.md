@@ -9,6 +9,7 @@ This is a website that allows users to interact with posts and have basic CRUD. 
 - CRUD for users (admin)
 - CRUD for categories
 - Display posts and can filter by category or title
+- Responsive
 
 ## How to run
 - Install XAMPP and clone the project to your local repo (root of XAMPP)
